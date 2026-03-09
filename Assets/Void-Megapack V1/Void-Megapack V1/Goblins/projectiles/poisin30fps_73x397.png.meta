@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 1db8f0f9b7cd0af4d8684458e10a7cb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 571904122456306075
+    second: poisin30fps_73x397_0
+  - first:
+      213: -6491557849059976126
+    second: poisin30fps_73x397_1
+  - first:
+      213: -1613489684232621377
+    second: poisin30fps_73x397_2
+  - first:
+      213: -7557098855367144396
+    second: poisin30fps_73x397_3
+  - first:
+      213: -877503899220308232
+    second: poisin30fps_73x397_4
+  - first:
+      213: -8277653950672647142
+    second: poisin30fps_73x397_5
+  - first:
+      213: -8297648327467064315
+    second: poisin30fps_73x397_6
+  - first:
+      213: -358638827548087445
+    second: poisin30fps_73x397_7
+  - first:
+      213: 3028685942884254107
+    second: poisin30fps_73x397_8
+  - first:
+      213: 6627834050632130065
+    second: poisin30fps_73x397_9
+  - first:
+      213: -5077476448945065040
+    second: poisin30fps_73x397_10
+  - first:
+      213: 6057033681358375141
+    second: poisin30fps_73x397_11
+  - first:
+      213: 2467888203344257734
+    second: poisin30fps_73x397_12
+  - first:
+      213: -1168580681972741201
+    second: poisin30fps_73x397_13
+  - first:
+      213: 9114180271885061351
+    second: poisin30fps_73x397_14
+  - first:
+      213: 7782054750362584634
+    second: poisin30fps_73x397_15
+  - first:
+      213: 245796163573961856
+    second: poisin30fps_73x397_16
+  - first:
+      213: 3036976999448311274
+    second: poisin30fps_73x397_17
+  - first:
+      213: 5340840724238338053
+    second: poisin30fps_73x397_18
+  - first:
+      213: -7498346487829733700
+    second: poisin30fps_73x397_19
+  - first:
+      213: 4251375788400235150
+    second: poisin30fps_73x397_20
+  - first:
+      213: 7140532275162755584
+    second: poisin30fps_73x397_21
+  - first:
+      213: -146901921036706232
+    second: poisin30fps_73x397_22
+  - first:
+      213: 2378027636707343638
+    second: poisin30fps_73x397_23
+  - first:
+      213: -6847674726689841255
+    second: poisin30fps_73x397_24
+  - first:
+      213: -868661248591204310
+    second: poisin30fps_73x397_25
+  - first:
+      213: 7035924766340760879
+    second: poisin30fps_73x397_26
+  - first:
+      213: 2830068319994631566
+    second: poisin30fps_73x397_27
+  - first:
+      213: -3634449447360029992
+    second: poisin30fps_73x397_28
+  - first:
+      213: -2986997526407937167
+    second: poisin30fps_73x397_29
+  - first:
+      213: 8589255146333580983
+    second: poisin30fps_73x397_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poisin30fps_73x397_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1934
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91f690f4cfcfe700800000000000000
+      internalID: 571904122456306075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1928
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c91efa78a59e5a0800000000000000
+      internalID: -6491557849059976126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1919
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2be8a4eabbb99e0800000000000000
+      internalID: -1613489684232621377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1907
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c845951aacf1790800000000000000
+      internalID: -7557098855367144396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1892
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe04f55ada72d3f0800000000000000
+      internalID: -877503899220308232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1880
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c4c88b69ddf1d80800000000000000
+      internalID: -8277653950672647142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1468
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504263a1fc4d8dc80800000000000000
+      internalID: -8297648327467064315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1453
+        width: 50
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b6551f2ebd50bf0800000000000000
+      internalID: -358638827548087445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1438
+        width: 53
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91c5d181dd080a20800000000000000
+      internalID: 3028685942884254107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1420
+        width: 56
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e9a2a04fbcafb50800000000000000
+      internalID: 6627834050632130065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1405
+        width: 56
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3b731421e2989b0800000000000000
+      internalID: -5077476448945065040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1387
+        width: 53
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e841f9aa08ee0450800000000000000
+      internalID: 6057033681358375141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 972
+        width: 53
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c226b9de33bf3220800000000000000
+      internalID: 2467888203344257734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 957
+        width: 53
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab81a7af0e58cfe0800000000000000
+      internalID: -1168580681972741201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 942
+        width: 56
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec05941ba21c7e70800000000000000
+      internalID: 9114180271885061351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 930
+        width: 56
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36c00a70996ffb60800000000000000
+      internalID: 7782054750362584634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 918
+        width: 59
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084daf8fe4e396300800000000000000
+      internalID: 245796163573961856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_17
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 906
+        width: 56
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5f52b8d72852a20800000000000000
+      internalID: 3036976999448311274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 497
+        width: 59
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5088a2a775a7e1a40800000000000000
+      internalID: 5340840724238338053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 488
+        width: 59
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe5c16e89580f790800000000000000
+      internalID: -7498346487829733700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 482
+        width: 62
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82da4a31cbeffa30800000000000000
+      internalID: 4251375788400235150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 470
+        width: 68
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002b948a544481360800000000000000
+      internalID: 7140532275162755584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 464
+        width: 68
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ed8cb2b7916fdf0800000000000000
+      internalID: -146901921036706232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 452
+        width: 65
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61db0084983700120800000000000000
+      internalID: 2378027636707343638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 49
+        width: 68
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f5b3add1c28f0a0800000000000000
+      internalID: -6847674726689841255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 40
+        width: 68
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20f29f5235e1f3f0800000000000000
+      internalID: -868661248591204310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 31
+        width: 68
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f254d1c0c40a4a160800000000000000
+      internalID: 7035924766340760879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 22
+        width: 68
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85dd57842c664720800000000000000
+      internalID: 2830068319994631566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 65
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da9df7db77df8dc0800000000000000
+      internalID: -3634449447360029992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_29
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 7
+        width: 65
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1730c75539d0c86d0800000000000000
+      internalID: -2986997526407937167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poisin30fps_73x397_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 193
+        width: 11
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea86a3c0a233770800000000000000
+      internalID: 8589255146333580983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      poisin30fps_73x397_0: 571904122456306075
+      poisin30fps_73x397_1: -6491557849059976126
+      poisin30fps_73x397_10: -5077476448945065040
+      poisin30fps_73x397_11: 6057033681358375141
+      poisin30fps_73x397_12: 2467888203344257734
+      poisin30fps_73x397_13: -1168580681972741201
+      poisin30fps_73x397_14: 9114180271885061351
+      poisin30fps_73x397_15: 7782054750362584634
+      poisin30fps_73x397_16: 245796163573961856
+      poisin30fps_73x397_17: 3036976999448311274
+      poisin30fps_73x397_18: 5340840724238338053
+      poisin30fps_73x397_19: -7498346487829733700
+      poisin30fps_73x397_2: -1613489684232621377
+      poisin30fps_73x397_20: 4251375788400235150
+      poisin30fps_73x397_21: 7140532275162755584
+      poisin30fps_73x397_22: -146901921036706232
+      poisin30fps_73x397_23: 2378027636707343638
+      poisin30fps_73x397_24: -6847674726689841255
+      poisin30fps_73x397_25: -868661248591204310
+      poisin30fps_73x397_26: 7035924766340760879
+      poisin30fps_73x397_27: 2830068319994631566
+      poisin30fps_73x397_28: -3634449447360029992
+      poisin30fps_73x397_29: -2986997526407937167
+      poisin30fps_73x397_3: -7557098855367144396
+      poisin30fps_73x397_30: 8589255146333580983
+      poisin30fps_73x397_4: -877503899220308232
+      poisin30fps_73x397_5: -8277653950672647142
+      poisin30fps_73x397_6: -8297648327467064315
+      poisin30fps_73x397_7: -358638827548087445
+      poisin30fps_73x397_8: 3028685942884254107
+      poisin30fps_73x397_9: 6627834050632130065
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

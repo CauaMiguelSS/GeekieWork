@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 5bfde4edbe1a17a41a903cbebe47d6b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7893551556976370792
+    second: Barb_leap_0
+  - first:
+      213: -7589346961308824659
+    second: Barb_leap_1
+  - first:
+      213: -7450120968869703794
+    second: Barb_leap_2
+  - first:
+      213: 1598123435729604483
+    second: Barb_leap_3
+  - first:
+      213: 7303653179375341064
+    second: Barb_leap_4
+  - first:
+      213: -2641108435109085647
+    second: Barb_leap_5
+  - first:
+      213: 4347054043305041879
+    second: Barb_leap_6
+  - first:
+      213: -5512524608337546276
+    second: Barb_leap_7
+  - first:
+      213: 3836282034458795237
+    second: Barb_leap_8
+  - first:
+      213: -5767982402782826668
+    second: Barb_leap_9
+  - first:
+      213: -2009847544553700369
+    second: Barb_leap_10
+  - first:
+      213: 3350530020776231647
+    second: Barb_leap_11
+  - first:
+      213: -9096688023430003573
+    second: Barb_leap_12
+  - first:
+      213: -2235008419349136981
+    second: Barb_leap_13
+  - first:
+      213: 4188652356836076384
+    second: Barb_leap_14
+  - first:
+      213: -380051219865073013
+    second: Barb_leap_15
+  - first:
+      213: -1014021222820002799
+    second: Barb_leap_16
+  - first:
+      213: 3353709346725295275
+    second: Barb_leap_17
+  - first:
+      213: 8660743954682333883
+    second: Barb_leap_18
+  - first:
+      213: 2299190294013681303
+    second: Barb_leap_19
+  - first:
+      213: -2199122035700812329
+    second: Barb_leap_20
+  - first:
+      213: 7514712669923114297
+    second: Barb_leap_21
+  - first:
+      213: 5708774428110284494
+    second: Barb_leap_22
+  - first:
+      213: -3678382728885830650
+    second: Barb_leap_23
+  - first:
+      213: -5248310694813185425
+    second: Barb_leap_24
+  - first:
+      213: 5049624921755311629
+    second: Barb_leap_25
+  - first:
+      213: 2222494350070020877
+    second: Barb_leap_26
+  - first:
+      213: 5854464152718565892
+    second: Barb_leap_27
+  - first:
+      213: 8263412231600550060
+    second: Barb_leap_28
+  - first:
+      213: 3827748865228213266
+    second: Barb_leap_29
+  - first:
+      213: -6645595630048890881
+    second: Barb_leap_30
+  - first:
+      213: 7264487137269422527
+    second: Barb_leap_31
+  - first:
+      213: -775363535096576391
+    second: Barb_leap_32
+  - first:
+      213: -493782277351072888
+    second: Barb_leap_33
+  - first:
+      213: 5395367546035043862
+    second: Barb_leap_34
+  - first:
+      213: 3439437073245643045
+    second: Barb_leap_35
+  - first:
+      213: -1829398967996801113
+    second: Barb_leap_36
+  - first:
+      213: 1316936869385777711
+    second: Barb_leap_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Barb_leap_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 524
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b11364ea8747290800000000000000
+      internalID: -7893551556976370792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 524
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab4ff516293da690800000000000000
+      internalID: -7589346961308824659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 526
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f05d4837adb9890800000000000000
+      internalID: -7450120968869703794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_3
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 528
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fc3ed2cccad2610800000000000000
+      internalID: 1598123435729604483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 533
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ec157ced9cb5560800000000000000
+      internalID: 7303653179375341064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_5
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 504
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ef8081fd5e85bd0800000000000000
+      internalID: -2641108435109085647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_6
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 502
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df5f96ee96d35c30800000000000000
+      internalID: 4347054043305041879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_7
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 502
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3f07843149f73b0800000000000000
+      internalID: -5512524608337546276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 362
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec11225f263d3530800000000000000
+      internalID: 3836282034458795237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 362
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fec63909204ffa0800000000000000
+      internalID: -5767982402782826668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 362
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe38f2e8e469b14e0800000000000000
+      internalID: -2009847544553700369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 377
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd246a15d497f7e20800000000000000
+      internalID: 3350530020776231647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 380
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8487e2607212c180800000000000000
+      internalID: -9096688023430003573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 344
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ffa62fa7abf0e0800000000000000
+      internalID: -2235008419349136981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_14
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 342
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b21d84025112a30800000000000000
+      internalID: 4188652356836076384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_15
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 342
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a0d7bdd69c9baf0800000000000000
+      internalID: -380051219865073013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_16
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 362
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1144b1302197de1f0800000000000000
+      internalID: -1014021222820002799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_17
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 362
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4f773d1e4ca8e20800000000000000
+      internalID: 3353709346725295275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 199
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbac37d7db4213870800000000000000
+      internalID: 8660743954682333883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 199
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e16b9046d58ef10800000000000000
+      internalID: 2299190294013681303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 199
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5b154f8262b71e0800000000000000
+      internalID: -2199122035700812329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_21
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 215
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93df4efcb5f994860800000000000000
+      internalID: 7514712669923114297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_22
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 199
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6e8529814a93f40800000000000000
+      internalID: 5708774428110284494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_23
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 215
+        width: 87
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cf3d0a562c3fcc0800000000000000
+      internalID: -3678382728885830650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_24
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 199
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ac6c4da314a27b0800000000000000
+      internalID: -5248310694813185425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_25
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 184
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e5f2ebc1fd31640800000000000000
+      internalID: 5049624921755311629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_26
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 182
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b7c3b06d2e7de10800000000000000
+      internalID: 2222494350070020877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_27
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 182
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4026c0de02c3f3150800000000000000
+      internalID: 5854464152718565892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 39
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca03b29a4a98da270800000000000000
+      internalID: 8263412231600550060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 39
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c05590055ee1530800000000000000
+      internalID: 3827748865228213266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_30
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 39
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff2c0efbf916c3a0800000000000000
+      internalID: -6645595630048890881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_31
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 55
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9965cff84a0d460800000000000000
+      internalID: 7264487137269422527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_32
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 39
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97607ce09fa5d35f0800000000000000
+      internalID: -775363535096576391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_33
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 55
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b1b1a82abb529f0800000000000000
+      internalID: -493782277351072888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_34
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 39
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ef61e723230ea40800000000000000
+      internalID: 5395367546035043862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_35
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 24
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521ad129bc55bbf20800000000000000
+      internalID: 3439437073245643045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_36
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 22
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af9518c45bac96e0800000000000000
+      internalID: -1829398967996801113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barb_leap_37
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 22
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22ba53fa13b64210800000000000000
+      internalID: 1316936869385777711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Barb_leap_0: -7893551556976370792
+      Barb_leap_1: -7589346961308824659
+      Barb_leap_10: -2009847544553700369
+      Barb_leap_11: 3350530020776231647
+      Barb_leap_12: -9096688023430003573
+      Barb_leap_13: -2235008419349136981
+      Barb_leap_14: 4188652356836076384
+      Barb_leap_15: -380051219865073013
+      Barb_leap_16: -1014021222820002799
+      Barb_leap_17: 3353709346725295275
+      Barb_leap_18: 8660743954682333883
+      Barb_leap_19: 2299190294013681303
+      Barb_leap_2: -7450120968869703794
+      Barb_leap_20: -2199122035700812329
+      Barb_leap_21: 7514712669923114297
+      Barb_leap_22: 5708774428110284494
+      Barb_leap_23: -3678382728885830650
+      Barb_leap_24: -5248310694813185425
+      Barb_leap_25: 5049624921755311629
+      Barb_leap_26: 2222494350070020877
+      Barb_leap_27: 5854464152718565892
+      Barb_leap_28: 8263412231600550060
+      Barb_leap_29: 3827748865228213266
+      Barb_leap_3: 1598123435729604483
+      Barb_leap_30: -6645595630048890881
+      Barb_leap_31: 7264487137269422527
+      Barb_leap_32: -775363535096576391
+      Barb_leap_33: -493782277351072888
+      Barb_leap_34: 5395367546035043862
+      Barb_leap_35: 3439437073245643045
+      Barb_leap_36: -1829398967996801113
+      Barb_leap_37: 1316936869385777711
+      Barb_leap_4: 7303653179375341064
+      Barb_leap_5: -2641108435109085647
+      Barb_leap_6: 4347054043305041879
+      Barb_leap_7: -5512524608337546276
+      Barb_leap_8: 3836282034458795237
+      Barb_leap_9: -5767982402782826668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

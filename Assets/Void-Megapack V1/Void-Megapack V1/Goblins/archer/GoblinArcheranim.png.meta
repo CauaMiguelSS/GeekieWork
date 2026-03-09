@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: e219820e3295c1847b65897ca01835c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8351507135215567233
+    second: GoblinArcheranim_0
+  - first:
+      213: -3712841592181645927
+    second: GoblinArcheranim_1
+  - first:
+      213: -8420070687629807876
+    second: GoblinArcheranim_2
+  - first:
+      213: -1044836652609166336
+    second: GoblinArcheranim_3
+  - first:
+      213: -2223152852368412695
+    second: GoblinArcheranim_4
+  - first:
+      213: -3403967776409799005
+    second: GoblinArcheranim_5
+  - first:
+      213: 4918196173130173838
+    second: GoblinArcheranim_6
+  - first:
+      213: -1535864651363942818
+    second: GoblinArcheranim_7
+  - first:
+      213: -3676430586501878339
+    second: GoblinArcheranim_8
+  - first:
+      213: -1331210548452224762
+    second: GoblinArcheranim_9
+  - first:
+      213: -6400730097614351160
+    second: GoblinArcheranim_10
+  - first:
+      213: -8542200292415605328
+    second: GoblinArcheranim_11
+  - first:
+      213: 3457286205460216048
+    second: GoblinArcheranim_12
+  - first:
+      213: 2343994334552610532
+    second: GoblinArcheranim_13
+  - first:
+      213: -5084939774498328459
+    second: GoblinArcheranim_14
+  - first:
+      213: -1825554112178113177
+    second: GoblinArcheranim_15
+  - first:
+      213: -8370719601176224064
+    second: GoblinArcheranim_16
+  - first:
+      213: 5385668551502141134
+    second: GoblinArcheranim_17
+  - first:
+      213: 4379605353641341207
+    second: GoblinArcheranim_18
+  - first:
+      213: -7641523509912865013
+    second: GoblinArcheranim_19
+  - first:
+      213: -7551942040334797339
+    second: GoblinArcheranim_20
+  - first:
+      213: 6553910059905022327
+    second: GoblinArcheranim_21
+  - first:
+      213: -1685519812548982454
+    second: GoblinArcheranim_22
+  - first:
+      213: 9076528620800679243
+    second: GoblinArcheranim_23
+  - first:
+      213: 5122634174551935230
+    second: GoblinArcheranim_24
+  - first:
+      213: -2501645978605851500
+    second: GoblinArcheranim_25
+  - first:
+      213: 3204210934080751112
+    second: GoblinArcheranim_26
+  - first:
+      213: 8065498541859176413
+    second: GoblinArcheranim_27
+  - first:
+      213: -8788070757874923921
+    second: GoblinArcheranim_28
+  - first:
+      213: -2809731332404046617
+    second: GoblinArcheranim_29
+  - first:
+      213: 8083709870934216618
+    second: GoblinArcheranim_30
+  - first:
+      213: -8789268470966661126
+    second: GoblinArcheranim_31
+  - first:
+      213: 1781483407717013431
+    second: GoblinArcheranim_32
+  - first:
+      213: -2093007884773067887
+    second: GoblinArcheranim_33
+  - first:
+      213: 7110358612031535449
+    second: GoblinArcheranim_34
+  - first:
+      213: 1622034051431290390
+    second: GoblinArcheranim_35
+  - first:
+      213: -4484604929617298166
+    second: GoblinArcheranim_36
+  - first:
+      213: 6664147807200941394
+    second: GoblinArcheranim_37
+  - first:
+      213: -3355124458583839243
+    second: GoblinArcheranim_38
+  - first:
+      213: 7094121750780889112
+    second: GoblinArcheranim_39
+  - first:
+      213: 8606644599176236088
+    second: GoblinArcheranim_40
+  - first:
+      213: -3675547217908020283
+    second: GoblinArcheranim_41
+  - first:
+      213: -6496178942543160499
+    second: GoblinArcheranim_42
+  - first:
+      213: -5961644280190731510
+    second: GoblinArcheranim_43
+  - first:
+      213: -636906777403210111
+    second: GoblinArcheranim_44
+  - first:
+      213: 5068965324706928047
+    second: GoblinArcheranim_45
+  - first:
+      213: 7607422795512233732
+    second: GoblinArcheranim_46
+  - first:
+      213: 6923580825073772884
+    second: GoblinArcheranim_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoblinArcheranim_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 925
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ef55a328c791c80800000000000000
+      internalID: -8351507135215567233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 924
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d97be4e36597cc0800000000000000
+      internalID: -3712841592181645927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 925
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe65203256e52b80800000000000000
+      internalID: -8420070687629807876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 925
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0042ce8a99eff71f0800000000000000
+      internalID: -1044836652609166336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 925
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef2f217246c521e0800000000000000
+      internalID: -2223152852368412695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 924
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6b734a75da2c0d0800000000000000
+      internalID: -3403967776409799005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 925
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d0c1b9c51f04440800000000000000
+      internalID: 4918196173130173838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_7
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 926
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e7f58ac338faae0800000000000000
+      internalID: -1535864651363942818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 797
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdac223cd1bafcc0800000000000000
+      internalID: -3676430586501878339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 796
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601904a2f07968de0800000000000000
+      internalID: -1331210548452224762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 797
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c49b8483e90c27a0800000000000000
+      internalID: -6400730097614351160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 797
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57452b712047980800000000000000
+      internalID: -8542200292415605328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_12
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 797
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f870538c7fbaff20800000000000000
+      internalID: 3457286205460216048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 796
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e65982ad6a878020800000000000000
+      internalID: 2343994334552610532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_14
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 797
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b5cc573aae69b0800000000000000
+      internalID: -5084939774498328459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 798
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765be5905345aa6e0800000000000000
+      internalID: -1825554112178113177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 672
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cedd796fda35db80800000000000000
+      internalID: -8370719601176224064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 672
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6174a530dbdba40800000000000000
+      internalID: 5385668551502141134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 672
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711f0307ddb77cc30800000000000000
+      internalID: 4379605353641341207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 674
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07f8d0badad3f590800000000000000
+      internalID: -7641523509912865013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_20
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 673
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e57189e9bc123790800000000000000
+      internalID: -7551942040334797339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_21
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 673
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7797f72b97a24fa50800000000000000
+      internalID: 6553910059905022327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_22
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 673
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49822729a4db98e0800000000000000
+      internalID: -1685519812548982454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_23
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 673
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d9d7ce0be46fd70800000000000000
+      internalID: 9076528620800679243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 539
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8c17014a0471740800000000000000
+      internalID: 5122634174551935230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 537
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ce96b9c3e584dd0800000000000000
+      internalID: -2501645978605851500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 538
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8064e4f2ed4a77c20800000000000000
+      internalID: 3204210934080751112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_27
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 540
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf72f3e0386eef60800000000000000
+      internalID: 8065498541859176413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_28
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 542
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f660ed7f4308a0680800000000000000
+      internalID: -8788070757874923921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 539
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e495c16d34d109d0800000000000000
+      internalID: -2809731332404046617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_30
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 537
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf4a5c5c4b1f2070800000000000000
+      internalID: 8083709870934216618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_31
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 540
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affcd78a4ee360680800000000000000
+      internalID: -8789268470966661126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 412
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7993a78b919b810800000000000000
+      internalID: 1781483407717013431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 412
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19372040b6424f2e0800000000000000
+      internalID: -2093007884773067887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 412
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95977cf3c711da260800000000000000
+      internalID: 7110358612031535449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_35
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 412
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6165629306f928610800000000000000
+      internalID: 1622034051431290390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 284
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df134b39b73c1c0800000000000000
+      internalID: -4484604929617298166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 284
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25519ea5f1fcb7c50800000000000000
+      internalID: 6664147807200941394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 284
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda2e4c4143071d0800000000000000
+      internalID: -3355124458583839243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_39
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 284
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818caa46522637260800000000000000
+      internalID: 7094121750780889112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 156
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c0fe9b9a1f07770800000000000000
+      internalID: 8606644599176236088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 156
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbca697745ddfcc0800000000000000
+      internalID: -3675547217908020283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 156
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b97548bafe8d5a0800000000000000
+      internalID: -6496178942543160499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_43
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 156
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bfdf10d1cf34da0800000000000000
+      internalID: -5961644280190731510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 33
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186c7d119a04927f0800000000000000
+      internalID: -636906777403210111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 33
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5dde53b15985640800000000000000
+      internalID: 5068965324706928047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 33
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f37b60abef29960800000000000000
+      internalID: 7607422795512233732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinArcheranim_47
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 33
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4596a34e310851060800000000000000
+      internalID: 6923580825073772884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GoblinArcheranim_0: -8351507135215567233
+      GoblinArcheranim_1: -3712841592181645927
+      GoblinArcheranim_10: -6400730097614351160
+      GoblinArcheranim_11: -8542200292415605328
+      GoblinArcheranim_12: 3457286205460216048
+      GoblinArcheranim_13: 2343994334552610532
+      GoblinArcheranim_14: -5084939774498328459
+      GoblinArcheranim_15: -1825554112178113177
+      GoblinArcheranim_16: -8370719601176224064
+      GoblinArcheranim_17: 5385668551502141134
+      GoblinArcheranim_18: 4379605353641341207
+      GoblinArcheranim_19: -7641523509912865013
+      GoblinArcheranim_2: -8420070687629807876
+      GoblinArcheranim_20: -7551942040334797339
+      GoblinArcheranim_21: 6553910059905022327
+      GoblinArcheranim_22: -1685519812548982454
+      GoblinArcheranim_23: 9076528620800679243
+      GoblinArcheranim_24: 5122634174551935230
+      GoblinArcheranim_25: -2501645978605851500
+      GoblinArcheranim_26: 3204210934080751112
+      GoblinArcheranim_27: 8065498541859176413
+      GoblinArcheranim_28: -8788070757874923921
+      GoblinArcheranim_29: -2809731332404046617
+      GoblinArcheranim_3: -1044836652609166336
+      GoblinArcheranim_30: 8083709870934216618
+      GoblinArcheranim_31: -8789268470966661126
+      GoblinArcheranim_32: 1781483407717013431
+      GoblinArcheranim_33: -2093007884773067887
+      GoblinArcheranim_34: 7110358612031535449
+      GoblinArcheranim_35: 1622034051431290390
+      GoblinArcheranim_36: -4484604929617298166
+      GoblinArcheranim_37: 6664147807200941394
+      GoblinArcheranim_38: -3355124458583839243
+      GoblinArcheranim_39: 7094121750780889112
+      GoblinArcheranim_4: -2223152852368412695
+      GoblinArcheranim_40: 8606644599176236088
+      GoblinArcheranim_41: -3675547217908020283
+      GoblinArcheranim_42: -6496178942543160499
+      GoblinArcheranim_43: -5961644280190731510
+      GoblinArcheranim_44: -636906777403210111
+      GoblinArcheranim_45: 5068965324706928047
+      GoblinArcheranim_46: 7607422795512233732
+      GoblinArcheranim_47: 6923580825073772884
+      GoblinArcheranim_5: -3403967776409799005
+      GoblinArcheranim_6: 4918196173130173838
+      GoblinArcheranim_7: -1535864651363942818
+      GoblinArcheranim_8: -3676430586501878339
+      GoblinArcheranim_9: -1331210548452224762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
