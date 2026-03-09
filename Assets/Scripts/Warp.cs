@@ -1,23 +1,12 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Warp : MonoBehaviour , ITouchable
+public class Warp : MonoBehaviour
 {
-    public void Active()
+    public void OnTriggerEnter2D()
     {
         SceneManager.LoadScene("Game");
         gameObject.SetActive(false);
     }
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
