@@ -2,20 +2,21 @@ using UnityEngine;
 
 public class Arrow : MonoBehaviour
 {
-    public float speed = 8f;
     public int damage = 1;
+    public float lifeTime = 6f;
 
-    // Update is called once per frame
-    void Update()
+    void Start()
     {
-        transform.Translate(Vector2.right * speed * Time.deltaTime);
+        Destroy(gameObject, lifeTime);
     }
 
-    private void OnTriggerEnter2D(Collider2D enemy) 
+    void OnTriggerEnter2D(Collider2D col)
     {
-        if (enemy.CompareTag("Enemy")) 
+        EnemyHealth enemy = col.GetComponent<EnemyHealth>();
+
+        if (enemy != null)
         {
-            enemy.GetComponent<EnemyHealth>()?.TakeDamage(damage, transform);
+            enemy.TakeDamage(damage, transform);
             Destroy(gameObject);
         }
     }
