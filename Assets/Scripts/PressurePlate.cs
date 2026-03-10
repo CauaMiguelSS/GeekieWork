@@ -4,8 +4,12 @@ public class PressurePlate : MonoBehaviour
 {
     public GameObject door;
 
-    void OnTriggerStay2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D other)
     {
             door.SetActive(false);
+    }
+    void OnTriggerExit2D(Collider2D other)
+    {
+            door.SetActive(true);
     }
 }

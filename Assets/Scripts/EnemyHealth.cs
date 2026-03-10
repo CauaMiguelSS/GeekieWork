@@ -5,6 +5,10 @@ public class EnemyHealth : MonoBehaviour
     public int health = 3;
     public float knockbackForce = 5f;
 
+    [Header("Drop")]
+    public bool dropObject;
+    public GameObject objectToDrop;
+
     private Rigidbody2D rb;
 
     void Start() 
@@ -27,6 +31,10 @@ public class EnemyHealth : MonoBehaviour
 
     public void Die() 
     {
+        if (dropObject && objectToDrop != null)
+        {
+            Instantiate(objectToDrop, transform.position, Quaternion.identity);
+        }
         Debug.Log("Inimigo morreu");
         Destroy(gameObject);
     }
