@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyHealth : MonoBehaviour
 {
-    public int health = 3;
+    public float health = 3f;
     public float knockbackForce = 5f;
 
     [Header("Drop")]
