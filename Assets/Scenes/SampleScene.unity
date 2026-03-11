@@ -2584,6 +2584,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5034869910420173948, guid: 13b91a54e83d3a64687f4a844f808c5b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5303874593092116570, guid: 13b91a54e83d3a64687f4a844f808c5b, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 495
@@ -13636,6 +13640,11 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.66, y: 0.18}
   m_EdgeRadius: 0
+--- !u!1 &1539133601 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5034869910420173948, guid: 13b91a54e83d3a64687f4a844f808c5b, type: 3}
+  m_PrefabInstance: {fileID: 400755832}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1551432500
 GameObject:
   m_ObjectHideFlags: 0
@@ -19983,6 +19992,10 @@ PrefabInstance:
       propertyPath: bombPoint
       value: 
       objectReference: {fileID: 260373999}
+    - target: {fileID: 6266534485407734135, guid: fb33ffa107f9b754592c4842ae7f4ba5, type: 3}
+      propertyPath: gameOverPanel
+      value: 
+      objectReference: {fileID: 1539133601}
     - target: {fileID: 7468277898729794825, guid: fb33ffa107f9b754592c4842ae7f4ba5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.09

@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -7,6 +8,8 @@ public class PlayerHealth : MonoBehaviour
 
     public float knockbackForce = 6f;
     public float invincibleTime = 0.5f;
+
+    public GameObject gameOverPanel;
 
     private Rigidbody2D rb;
     private bool invincible;
@@ -17,6 +20,8 @@ public class PlayerHealth : MonoBehaviour
         currentHealth = maxHealth;
 
         UIHearts.instance.UpdateHearts(currentHealth, maxHealth);
+
+        gameOverPanel.SetActive(false);
     }
 
     public void TakeDamage(int damage, Transform attacker)
@@ -38,7 +43,7 @@ public class PlayerHealth : MonoBehaviour
         StartCoroutine(Invincibility());
     }
 
-    System.Collections.IEnumerator Invincibility()
+    IEnumerator Invincibility()
     {
         invincible = true;
         yield return new WaitForSeconds(invincibleTime);
@@ -48,6 +53,9 @@ public class PlayerHealth : MonoBehaviour
     void Die()
     {
         Debug.Log("Player morreu");
-        Destroy(gameObject);
+
+        Time.timeScale = 0f; // congela o jogo
+
+        gameOverPanel.SetActive(true);
     }
 }
